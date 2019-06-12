@@ -2,6 +2,9 @@
 
 Simple Accordion done in Vanilla JS.
 
+[![GitHub release](https://img.shields.io/github/release/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/releases)
+[![GitHub](https://img.shields.io/github/license/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/blob/master/LICENSE.md)
+
 ## Usage
 1. Paste right before your page's closing `</body>` tag:
 
