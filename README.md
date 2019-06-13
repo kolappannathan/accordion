@@ -1,9 +1,17 @@
 # Accordion
+[![GitHub](https://img.shields.io/github/license/kolappannathan/accordion.svg?style=flat-square)](#)
+[![GitHub issues](https://img.shields.io/github/issues/kolappannathan/accordion.svg?style=flat-square)](#)
+[![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/accordion.svg?color=orange&style=flat-square)](#)
 
 Simple Accordion done in Vanilla JS.
 
+**Downloads**: 
+
 [![GitHub release](https://img.shields.io/github/release/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/releases)
-[![GitHub](https://img.shields.io/github/license/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/blob/master/LICENSE.md)
+
+**Websites** :
+ 1. [![website](https://img.shields.io/badge/view-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappannathan.github.io/projects/accordion/)
+ 2. [![website](https://img.shields.io/badge/view-live%20demo-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappannathan.github.io/projects/accordion/demo.html)
 
 ## Usage
 1. Paste right before your page's closing `</body>` tag:
