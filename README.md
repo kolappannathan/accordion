@@ -10,8 +10,8 @@ Simple Accordion done in Vanilla JS.
 [![GitHub release](https://img.shields.io/github/release/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/releases)
 
 **Websites** :
- 1. [![website](https://img.shields.io/badge/view-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappannathan.github.io/projects/accordion/)
- 2. [![website](https://img.shields.io/badge/view-live%20demo-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappannathan.github.io/projects/accordion/demo.html)
+ 1. [![website](https://img.shields.io/badge/view-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappan.dev/project/accordion-js)
+ 2. [![website](https://img.shields.io/badge/view-live%20demo-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappan.dev/project/accordion-demo)
 
 ## Usage
 1. Paste right before your page's closing `</body>` tag:
