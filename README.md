@@ -1,17 +1,11 @@
 # Accordion
-[![GitHub](https://img.shields.io/github/license/kolappannathan/accordion.svg?style=flat-square)](#)
-[![GitHub issues](https://img.shields.io/github/issues/kolappannathan/accordion.svg?style=flat-square)](#)
-[![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/accordion.svg?color=orange&style=flat-square)](#)
+[![website](https://img.shields.io/badge/view-Live%20Demo-blue.svg?style=flat-square&logo=microsoft%20edge)](https://kolappan.dev/project/accordion-demo.html)
+[![License](https://img.shields.io/github/license/kolappannathan/accordion.svg?style=flat-square)](#)
 
 Simple Accordion done in Vanilla JavaScript. It is based on pinceladasdaweb's work. It is lightweight, easy to install and use.
 
 **Downloads**: 
-
 [![GitHub release](https://img.shields.io/github/release/kolappannathan/accordion.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/accordion/releases)
-
-**Websites** :
- 1. [![website](https://img.shields.io/badge/view-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappan.dev/project/accordion-js)
- 2. [![website](https://img.shields.io/badge/view-live%20demo-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappan.dev/project/accordion-demo)
 
 ## Usage
 1. Paste right before your page's closing `</body>` tag:
