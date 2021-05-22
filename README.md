@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/kolappannathan/accordion.svg?style=flat-square)](#)
 [![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/accordion.svg?color=orange&style=flat-square)](#)
 
-Simple Accordion done in Vanilla JS.
+Simple Accordion done in Vanilla JavaScript. It is based on pinceladasdaweb's work. It is lightweight, easy to install and use.
 
 **Downloads**: 
 
