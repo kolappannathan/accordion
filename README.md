@@ -1,7 +1,4 @@
 # Accordion
-[![website](https://img.shields.io/badge/view-Live%20Demo-blue.svg?style=flat-square&logo=microsoft%20edge)](https://kolappan.dev/project/accordion-demo.html)
-[![License](https://img.shields.io/github/license/kolappannathan/accordion.svg?style=flat-square)](#)
-
 Simple Accordion done in Vanilla JavaScript. It is based on pinceladasdaweb's work. It is lightweight, easy to install and use.
 
 **Downloads**: 
